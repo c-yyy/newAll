@@ -1,0 +1,2 @@
+# newAll
+new all template
